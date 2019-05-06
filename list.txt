@@ -1,4 +1,7 @@
-This is my list
+
+This is my lis
+git is easy
+and git is funt
 
 
 
